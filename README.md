@@ -1,1 +1,1 @@
-# machine-learning-mnist-classification-with-tensorflow-implementing-convolutional-neural-network
+Multi-Layered Perceptron for Classification: Classifying Clothing.
