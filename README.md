@@ -1,1 +1,1 @@
-Multi-Layered Perceptron for Classification: Classifying Clothing.
+Convolutional Neural Network: Classifying Clothing.
